@@ -1,0 +1,29 @@
+{
+  "name": "node-mongo-paginate",
+  "version": "1.0.0",
+  "description": "A pagination example using node, express & mongodb.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehan-sattar/node-mongo-paginate.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "pagination",
+    "express"
+  ],
+  "author": "rehan-sattar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rehan-sattar/node-mongo-paginate/issues"
+  },
+  "homepage": "https://github.com/rehan-sattar/node-mongo-paginate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16"
+  }
+}
