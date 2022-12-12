@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rehan-sattar/node-mongo-paginate#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.16"
   },
   "devDependencies": {
